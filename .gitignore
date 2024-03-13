@@ -1,0 +1,3 @@
+# Arquivos gerados pela construção
+.dist/
+.duckdb/
